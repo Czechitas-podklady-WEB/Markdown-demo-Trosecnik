@@ -1,6 +1,6 @@
 # Začátek
 
-Rozbouřené moře tě jako hadrovou panenku vyvrhlo na kamenitý břeh. Skalnaté pobřeží bičuje silný vítr a hustý déšť. Opodál ve ve vlnách se zmítá tvá plachetnice, která se právě rozlomila o skaliska.
+Rozbouřené moře tě jako hadrovou panenku vyvrhlo na kamenitý břeh. Skalnaté pobřeží bičuje silný vítr a hustý déšť. Opodál ve vlnách se zmítá tvá plachetnice, která se právě rozlomila o skaliska.
 
 ![rozbouřené moře](vlny.jpg)
 
