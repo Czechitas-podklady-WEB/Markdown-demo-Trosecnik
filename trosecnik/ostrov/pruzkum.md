@@ -4,10 +4,10 @@ Bohužel ostrov není žádným tropickým rájem plným kokosových palem a př
 
 ## Co uděláš?
 
-1. Vydáš se na skalní vrcholek mávat na projíždějící lodě
+1. Vydáš se na skalní vrcholek mávat na projíždějící lodě.
 
    [Vrcholek](vrcholek.md)
 
-1. Vrátíš se zpět na pláž k plovoucím troskám
+1. Vrátíš se zpět na pláž k plovoucím troskám.
 
    [Po bouři](plaz/po-bouri.md)
