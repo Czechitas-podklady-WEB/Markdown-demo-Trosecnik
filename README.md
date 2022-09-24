@@ -1,4 +1,4 @@
-# Markdown demo
+# Markdown demo: Trosečník
 
 Textovka, hra sloužící pro demonstraci Markdownu.
 
