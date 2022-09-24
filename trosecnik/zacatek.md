@@ -4,7 +4,7 @@ Rozbouřené moře tě jako hadrovou panenku vyvrhlo na kamenitý břeh. Skalnat
 
 ![rozbouřené moře](vlny.jpg)
 
-Co uděláš?
+## Co uděláš?
 
 1. Vyškrábeš se ven z vody a vydáš se do skal hledat úkryt před deštěm a větrem.
 

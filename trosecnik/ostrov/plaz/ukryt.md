@@ -6,6 +6,8 @@ Nevíš, jak dlouho jsi spal, ale bouře již utichla a déšť se zmírnil. V d
 
 ![skály](skaly.jpg)
 
+## Co uděláš?
+
 1. Nezbyde ti, než se vydat prozkoumat ostrov.
 
    [Průzkum](../pruzkum.md)

@@ -4,6 +4,8 @@ Po vydatném spánku se probudíš do slunného rána. Všimneš si, že noční
 
 Moře navíc na pláž vyplavilo několik předmětů ze ztroskotané lodi. Mezi nimi i záchranhý plovák, hurá!
 
+## Co uděláš?
+
 1. Plný sil a odhlodlání se vydáváš do moře.
 
    [Plavání](../../more/plavani.md)
